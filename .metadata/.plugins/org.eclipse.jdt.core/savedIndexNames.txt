@@ -1,0 +1,17 @@
+INDEX VERSION 1.127+W:\MIE350project\mie350group13\.metadata\.plugins\org.eclipse.jdt.core
+345734131.index
+1741139885.index
+4011697295.index
+1477027194.index
+1000054779.index
+2766771498.index
+1261408909.index
+4226272656.index
+2666753077.index
+464261895.index
+3728563264.index
+621284444.index
+38630804.index
+1780950148.index
+1899171388.index
+1389948092.index
