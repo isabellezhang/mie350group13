@@ -1,6 +1,6 @@
 <footer class="container-fluid text-center">
 	<p>
-		This web app is for academic use only. <br>
+		This web app is for academic only. <br>
 		MIE350 Group 13 Web Application &#169;
 		<%=new java.text.SimpleDateFormat("yyyy")
 					.format(new java.util.Date())%>

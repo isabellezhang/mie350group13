@@ -1,7 +1,7 @@
 <footer class="container-fluid text-center">
 	<p>
-		This sample web app is for demonstration purposes only. <br>
-		MIE350 Sample Web Application &#169;
+		This web app is for academic use only. <br>
+		MIE350 Group 13 Web Application &#169;
 		<%=new java.text.SimpleDateFormat("yyyy")
 					.format(new java.util.Date())%>
 		University of Toronto <br /> Bootstrap Theme &#169; <a

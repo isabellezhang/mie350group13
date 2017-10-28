@@ -36,13 +36,21 @@
 			</div>
 			<div class="col-sm-8 text-left">
 				<h1>Welcome</h1>
-				<p>In this project, your team will design and build a web
-					application. A web application is a software application that is
-					accessed over the Internet using standard browsers (e.g. Internet
-					Explorer, Mozilla Firefox). Examples of web application would be
-					online-shopping, web banking, stock exchange and many others. Each
-					member of the team is expected to contribute equally to the project
-					though there may be a variety of different roles.</p>
+				<p>Along with the increasing trend in video streaming industry,
+					more amateur videos and movies has been published online. It
+					suggested another way of leisure entertainment, enriched amateur
+					filmmakers¡¯ experience of art, and sometimes even generated
+					considerable profits. However, many dilettantes encountered trouble
+					with team-forming and high cost of making, such as the cost of
+					equipments, filming location, actors and so on. Therefore, in order
+					to promote amateur movie-making and reduce the cost, team eager to
+					create a nonprofessional moving-making website, which provide a
+					platform for amatuer filmmakers to propose own projects proposal on
+					the website, acquaint other hobbyists in the nearby location and
+					forming team with same interest but different specialties.
+					Potentially, the website could also be a display platform for the
+					investors, who do not have to register as a member, to find
+					interested investing project and contact the proposal owner.</p>
 				<hr>
 				<h3>Internet Browsers</h3>
 				<p>When designing your projects, please make sure to test them
