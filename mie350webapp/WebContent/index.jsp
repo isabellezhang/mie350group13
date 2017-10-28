@@ -36,7 +36,7 @@
 			</div>
 			<div class="col-sm-8 text-left">
 				<h1>Welcome</h1>
-				<p>In this project, your team will design and build a web
+				<p>In this project, our team will design and build a web
 					application. A web application is a software application that is
 					accessed over the Internet using standard browsers (e.g. Internet
 					Explorer, Mozilla Firefox). Examples of web application would be
